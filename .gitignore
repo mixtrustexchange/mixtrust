@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+build
+bin/
+node_modules
+yarn-error.log
+.env
+
